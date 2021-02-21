@@ -15,6 +15,10 @@
 	2. Run `npm install`
 	3. Run `npm start`
 
+## Link to run the deployed project
+	
+	https://github.com/paraswadhwa/todo-app
+
 ## Available Scripts
 
 In the project directory, you can run:
