@@ -1,5 +1,4 @@
 import React from 'react';
-import { TodoHeader } from './TodoHeader';
 import { InputForm } from './InputForm';
 import { Tasks } from './Tasks';
 
