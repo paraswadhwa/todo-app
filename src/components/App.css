@@ -91,3 +91,8 @@ ul>li:hover {
 .m10 {
     margin : 10px;
 }
+
+.taskDeleteParent {
+  float : right;
+  display: inline-block;
+}

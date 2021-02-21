@@ -18,9 +18,12 @@ export function Tasks({
                     }}>
                     </span>
                     {item.value}
-                    <button type="button" className="close" onClick={() => {
-                        removeItem(i, bucketIndex);
-                    }}>&times;</button>
+                    <div className = "taskDeleteParent">
+                        <span class="glyphicon glyphicon-remove" onClick={() => {
+                            removeItem(i, bucketIndex);
+                        }}>
+                        </span>
+                    </div>
                 </div>
             </li>
         );
