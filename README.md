@@ -17,7 +17,7 @@
 
 ## Link to run the deployed project
 	
-	https://github.com/paraswadhwa/todo-app
+	[a link](https://paraswadhwa.github.io/todo-app/)
 
 ## Available Scripts
 
