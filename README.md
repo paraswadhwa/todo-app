@@ -2,7 +2,7 @@
 
 ## This project is an exercise to do the following actions:
 
-	1. User can create, delete and edit a to-do.
+	1. User can create, delete a to-do.
 	2. They should also be able to mark a to-do done and vice-versa.
 	3. They should be able to create a to-do under a bucket. The user has the
 	   flexibility to name this bucket according to his/her choice.
